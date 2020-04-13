@@ -1,6 +1,7 @@
 header {
     background-color: #D9A50B;
     padding: 50px;
+    height: 700px;
 }
 footer {
     background-color: #001D42;
@@ -45,9 +46,11 @@ H1 {
 .footer_left {
     width: 50%;
     margin-left: 70px;
+    margin-top: 30px;
 }
 .footer_right {
     flex: 2;
+    margin-top: 30px;
 }
 .flex-child {
     flex-direction: column;
